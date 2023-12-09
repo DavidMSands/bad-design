@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Who is known as the 'father of modern powerlifting'?",
+        "options": ["Eddie Hall", "Paul Anderson", "Doug Hepburn", "Mark Henry"],
+        "answer": "Paul Anderson"
+    },
+    {
+        "question": "In which year was the first National Powerlifting Championship held in the USA?",
+        "options": ["1959", "1965", "1972", "1980"],
+        "answer": "1965"
+    },
+    {
+        "question": "What is the name of the powerlifter who first squatted over 1000 lbs?",
+        "options": ["Don Reinhoudt", "Gene Rychlak", "Ed Coan", "Kirk Karwoski"],
+        "answer": "Gene Rychlak"
+    },
+    {
+        "question": "Which powerlifter is known for setting over 71 world records?",
+        "options": ["Jon Pall Sigmarsson", "Ed Coan", "Bill Kazmaier", "Ray Williams"],
+        "answer": "Ed Coan"
+    },
+    {
+        "question": "What is the maximum weight class in IPF Men's powerlifting as of 2023?",
+        "options": ["120 kg", "140 kg", "105 kg", "No limit"],
+        "answer": "120 kg"
+    }
+]
